@@ -473,12 +473,12 @@ ul {
   display: flex;
   gap: 24px;
 }
-.footer-form-cover {
+/* .footer-form-cover {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 24px;
-}
+} */
 
 .subscribe-input {
   width: 264px;
