@@ -794,7 +794,6 @@ ul {
   font-size: 12px;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.48px;
-  display: inline-flex;
   gap: 8px;
 }
 
@@ -816,6 +815,9 @@ ul {
   border: none;
   background-color: #404bbf;
   fill: #f4f4fd;
+}
+.wrap-text-privacy{
+  display: inline-flex;
 }
 
 .check-link {
